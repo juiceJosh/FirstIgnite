@@ -1,5 +1,5 @@
 const colors = {
-  background: '#1F0808',
+  background: '#082833',
   clear: 'rgba(0,0,0,0)',
   facebook: '#3b5998',
   transparent: 'rgba(0,0,0,0)',
@@ -12,6 +12,7 @@ const colors = {
   windowTint: 'rgba(0, 0, 0, 0.4)',
   panther: '#161616',
   charcoal: '#595959',
+  blue: '#99C8E2',
   coal: '#2d2d2d',
   bloodOrange: '#fb5f26',
   snow: 'white',
